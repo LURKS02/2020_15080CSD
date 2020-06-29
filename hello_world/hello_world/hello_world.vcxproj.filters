@@ -13,82 +13,94 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\day04">
+      <UniqueIdentifier>{a6875321-e9da-4bbc-9c7e-69004139a407}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day03">
+      <UniqueIdentifier>{f566d0e0-d305-4987-83ca-2e3871228da5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day02">
+      <UniqueIdentifier>{3ff7829f-b278-409f-a2e1-409150c12fda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day01">
+      <UniqueIdentifier>{35eafbef-c1e5-4d51-94e3-db9ffef1f9cc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hello_world.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="simplePrint1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="simplePrint2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="readNum.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="askName.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="askAddress.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="quizSinger.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="simplest.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="function.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="asciiTest.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="operations.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="operations2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="oddeven.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="scoreprint.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="while.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="findnum.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="array.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Circle.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="rectangle.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\day04</Filter>
     </ClCompile>
     <ClCompile Include="circle2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="point.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="rectangle2.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\day04</Filter>
     </ClCompile>
     <ClCompile Include="circle3.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\day04</Filter>
+    </ClCompile>
+    <ClCompile Include="rectangle.cpp">
+      <Filter>소스 파일\day04</Filter>
+    </ClCompile>
+    <ClCompile Include="rectangle2.cpp">
+      <Filter>소스 파일\day04</Filter>
     </ClCompile>
     <ClCompile Include="error.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\day04</Filter>
+    </ClCompile>
+    <ClCompile Include="asciiTest.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="readNum.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="askName.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="askAddress.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="quizSinger.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="operations.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="oddeven.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="scoreprint.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="while.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="findnum.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="array.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>소스 파일\day04</Filter>
+    </ClCompile>
+    <ClCompile Include="hello_world.cpp">
+      <Filter>소스 파일\day01</Filter>
+    </ClCompile>
+    <ClCompile Include="simplest.cpp">
+      <Filter>소스 파일\day02</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>소스 파일\day02</Filter>
+    </ClCompile>
+    <ClCompile Include="operations2.cpp">
+      <Filter>소스 파일\day02</Filter>
+    </ClCompile>
+    <ClCompile Include="simplePrint1.cpp">
+      <Filter>소스 파일\day02</Filter>
+    </ClCompile>
+    <ClCompile Include="simplePrint2.cpp">
+      <Filter>소스 파일\day02</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
