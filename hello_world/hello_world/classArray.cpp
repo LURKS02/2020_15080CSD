@@ -11,6 +11,8 @@ public:
 };
 
 int main() {
+
+	//기본생성자가 없으면 컴파일 오류
 	Circle circleArray[3];
 	
 	circleArray[0].setRadius(10);
