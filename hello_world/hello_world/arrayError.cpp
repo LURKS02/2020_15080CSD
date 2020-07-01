@@ -11,5 +11,6 @@ public:
 
 int main() {
 	Circle waffle(15);
+	Circle circleArray[3] = { Circle(10), Circle(20), Circle(30) };
 	//Circle circleArray[3];	기본 생성자가 존재하지 않음
 }
