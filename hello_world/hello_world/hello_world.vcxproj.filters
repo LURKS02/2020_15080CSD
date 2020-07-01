@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\day01">
       <UniqueIdentifier>{35eafbef-c1e5-4d51-94e3-db9ffef1f9cc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day05">
+      <UniqueIdentifier>{a6eb51c4-ad9d-42b4-96ae-e476dd87d649}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Circle.cpp">
@@ -101,6 +104,9 @@
     </ClCompile>
     <ClCompile Include="simplePrint2.cpp">
       <Filter>소스 파일\day02</Filter>
+    </ClCompile>
+    <ClCompile Include="inline.cpp">
+      <Filter>소스 파일\day05</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
