@@ -123,5 +123,8 @@
     <ClCompile Include="dynamicInt.cpp">
       <Filter>소스 파일\day05</Filter>
     </ClCompile>
+    <ClCompile Include="dynamicArray.cpp">
+      <Filter>소스 파일\day05</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
