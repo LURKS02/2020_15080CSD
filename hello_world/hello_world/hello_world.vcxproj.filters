@@ -111,5 +111,8 @@
     <ClCompile Include="classPointer.cpp">
       <Filter>소스 파일\day05</Filter>
     </ClCompile>
+    <ClCompile Include="classArray.cpp">
+      <Filter>소스 파일\day05</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
