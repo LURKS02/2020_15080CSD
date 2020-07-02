@@ -153,5 +153,8 @@
     <ClCompile Include="callbyadd.cpp">
       <Filter>소스 파일\day06</Filter>
     </ClCompile>
+    <ClCompile Include="valueCircle.cpp">
+      <Filter>소스 파일\day06</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
