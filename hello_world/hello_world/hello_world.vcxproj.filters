@@ -180,5 +180,8 @@
     <ClCompile Include="copyConst.cpp">
       <Filter>소스 파일\day06</Filter>
     </ClCompile>
+    <ClCompile Include="refreturn2.cpp">
+      <Filter>소스 파일\day06</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
