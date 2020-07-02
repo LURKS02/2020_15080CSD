@@ -28,11 +28,12 @@ int main() {
 
 	int count = 0;
 	Circle* p = pArray;
+
 	for (int i = 0; i < n; i++) {
-		cout << p->getArea() << " ";
-		if (p->getArea() >= 100 && p->getArea() <= 200) count++;
+		//cout << p->getArea() << " ";
+		if (p->getArea() > 100) count++;
 		p++;
 	}
-	cout << endl << "면적이 100에서 200 사이인 원의 개수는 " << count << endl;
+	cout << endl << "면적이 100보다 큰 원은 " << count << "개 입니다." << endl;
 	delete[] pArray;
 }

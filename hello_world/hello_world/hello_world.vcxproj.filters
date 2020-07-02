@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\day05">
       <UniqueIdentifier>{a6eb51c4-ad9d-42b4-96ae-e476dd87d649}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day06">
+      <UniqueIdentifier>{265632fd-cac7-4a9f-9fd4-7f5ad8d7d0cb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Circle.cpp">
@@ -134,6 +137,15 @@
     </ClCompile>
     <ClCompile Include="dynamicCircle3.cpp">
       <Filter>소스 파일\day05</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
+      <Filter>소스 파일\day06</Filter>
+    </ClCompile>
+    <ClCompile Include="string2.cpp">
+      <Filter>소스 파일\day06</Filter>
+    </ClCompile>
+    <ClCompile Include="string3.cpp">
+      <Filter>소스 파일\day06</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
