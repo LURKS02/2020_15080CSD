@@ -162,5 +162,8 @@
     <ClCompile Include="ref.cpp">
       <Filter>소스 파일\day06</Filter>
     </ClCompile>
+    <ClCompile Include="ref2.cpp">
+      <Filter>소스 파일\day06</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
