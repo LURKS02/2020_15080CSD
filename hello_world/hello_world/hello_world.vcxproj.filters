@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\day06">
       <UniqueIdentifier>{265632fd-cac7-4a9f-9fd4-7f5ad8d7d0cb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day07">
+      <UniqueIdentifier>{0cff6a3b-8960-4c6b-8caa-4a09d0594d52}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Circle.cpp">
@@ -182,6 +185,9 @@
     </ClCompile>
     <ClCompile Include="refreturn2.cpp">
       <Filter>소스 파일\day06</Filter>
+    </ClCompile>
+    <ClCompile Include="copyconst2.cpp">
+      <Filter>소스 파일\day07</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
