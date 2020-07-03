@@ -219,7 +219,19 @@
     <ClCompile Include="error3.cpp">
       <Filter>소스 파일\day07</Filter>
     </ClCompile>
-    <ClCompile Include="static.cpp">
+    <ClCompile Include="static1.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="static2.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="static3.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="static4.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="static5.cpp">
       <Filter>소스 파일\day07</Filter>
     </ClCompile>
   </ItemGroup>
