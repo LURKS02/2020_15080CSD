@@ -192,5 +192,11 @@
     <ClCompile Include="copyconst3.cpp">
       <Filter>소스 파일\day07</Filter>
     </ClCompile>
+    <ClCompile Include="overload1.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="overload2.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
