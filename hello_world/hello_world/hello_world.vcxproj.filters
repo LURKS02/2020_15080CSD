@@ -198,5 +198,17 @@
     <ClCompile Include="overload2.cpp">
       <Filter>소스 파일\day07</Filter>
     </ClCompile>
+    <ClCompile Include="default1.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="default2.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="define1.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="define2.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
