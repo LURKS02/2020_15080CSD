@@ -210,5 +210,17 @@
     <ClCompile Include="define2.cpp">
       <Filter>소스 파일\day07</Filter>
     </ClCompile>
+    <ClCompile Include="error1.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="error2.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="error3.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="static.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
