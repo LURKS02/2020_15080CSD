@@ -279,5 +279,8 @@
     <ClCompile Include="operator10.cpp">
       <Filter>소스 파일\day08</Filter>
     </ClCompile>
+    <ClCompile Include="scoreprint2.cpp">
+      <Filter>소스 파일\day03</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
