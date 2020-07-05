@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\day07">
       <UniqueIdentifier>{0cff6a3b-8960-4c6b-8caa-4a09d0594d52}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day08">
+      <UniqueIdentifier>{2388db2a-1e0d-46df-bca9-1905558a8da7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Circle.cpp">
@@ -233,6 +236,18 @@
     </ClCompile>
     <ClCompile Include="static5.cpp">
       <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayutility.cpp">
+      <Filter>소스 파일\day07</Filter>
+    </ClCompile>
+    <ClCompile Include="friend1.cpp">
+      <Filter>소스 파일\day08</Filter>
+    </ClCompile>
+    <ClCompile Include="friend2.cpp">
+      <Filter>소스 파일\day08</Filter>
+    </ClCompile>
+    <ClCompile Include="friend3.cpp">
+      <Filter>소스 파일\day08</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
