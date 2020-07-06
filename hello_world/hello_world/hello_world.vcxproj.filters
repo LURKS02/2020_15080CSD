@@ -294,5 +294,17 @@
     <ClCompile Include="const.cpp">
       <Filter>소스 파일\day09</Filter>
     </ClCompile>
+    <ClCompile Include="private.cpp">
+      <Filter>소스 파일\day09</Filter>
+    </ClCompile>
+    <ClCompile Include="protected.cpp">
+      <Filter>소스 파일\day09</Filter>
+    </ClCompile>
+    <ClCompile Include="multi.cpp">
+      <Filter>소스 파일\day09</Filter>
+    </ClCompile>
+    <ClCompile Include="calculator.cpp">
+      <Filter>소스 파일\day09</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
