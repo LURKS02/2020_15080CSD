@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\day08">
       <UniqueIdentifier>{2388db2a-1e0d-46df-bca9-1905558a8da7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day09">
+      <UniqueIdentifier>{39da7789-c038-49b8-960e-5271ee81cb86}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Circle.cpp">
@@ -281,6 +284,12 @@
     </ClCompile>
     <ClCompile Include="scoreprint2.cpp">
       <Filter>소스 파일\day03</Filter>
+    </ClCompile>
+    <ClCompile Include="colorpoint.cpp">
+      <Filter>소스 파일\day09</Filter>
+    </ClCompile>
+    <ClCompile Include="colorprint2.cpp">
+      <Filter>소스 파일\day09</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
