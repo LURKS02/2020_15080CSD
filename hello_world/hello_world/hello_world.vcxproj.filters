@@ -291,5 +291,8 @@
     <ClCompile Include="colorprint2.cpp">
       <Filter>소스 파일\day09</Filter>
     </ClCompile>
+    <ClCompile Include="const.cpp">
+      <Filter>소스 파일\day09</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
