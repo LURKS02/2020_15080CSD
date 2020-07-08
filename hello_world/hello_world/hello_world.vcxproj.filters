@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\day09">
       <UniqueIdentifier>{39da7789-c038-49b8-960e-5271ee81cb86}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day10">
+      <UniqueIdentifier>{c6fa4479-a502-4478-9680-9cbae12c143a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Circle.cpp">
@@ -305,6 +308,24 @@
     </ClCompile>
     <ClCompile Include="calculator.cpp">
       <Filter>소스 파일\day09</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual.cpp">
+      <Filter>소스 파일\day09</Filter>
+    </ClCompile>
+    <ClCompile Include="order.cpp">
+      <Filter>소스 파일\day09</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual2.cpp">
+      <Filter>소스 파일\day09</Filter>
+    </ClCompile>
+    <ClCompile Include="redefine.cpp">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="override1.cpp">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="override2.cpp">
+      <Filter>소스 파일\day10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
