@@ -1,7 +1,8 @@
 class Shape {
 	Shape* next;
 protected:
-	virtual void draw();
+	//pure virtual function
+	virtual void draw() = 0;
 public:
 	Shape() { next = NULL; }
 	virtual ~Shape() {}
