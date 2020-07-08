@@ -22,4 +22,10 @@ int main() {
 		p->paint();
 		p = p->getNext();
 	}
+	p = pStart;
+	while (p != NULL) {
+		Shape* q = p->getNext();
+		delete p;
+		p = q;
+	}
 }
