@@ -348,5 +348,23 @@
     <ClCompile Include="overload.cpp">
       <Filter>소스 파일\day11</Filter>
     </ClCompile>
+    <ClCompile Include="template1.cpp">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="template2.cpp">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="bigger.cpp">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="add.cpp">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="arraycopy.cpp">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="print.cpp">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
