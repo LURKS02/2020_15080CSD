@@ -405,7 +405,10 @@
     <ClCompile Include="auto.cpp">
       <Filter>소스 파일\day12</Filter>
     </ClCompile>
-    <ClCompile Include="foreach.cpp">
+    <ClCompile Include="foreach1.cpp">
+      <Filter>소스 파일\day12</Filter>
+    </ClCompile>
+    <ClCompile Include="foreach2.cpp">
       <Filter>소스 파일\day12</Filter>
     </ClCompile>
   </ItemGroup>
