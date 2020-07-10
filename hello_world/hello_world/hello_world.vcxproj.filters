@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\day11">
       <UniqueIdentifier>{bd8d4f21-e9e4-425b-904a-ea2174a3ea7a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day12">
+      <UniqueIdentifier>{1d064320-3520-44e1-b33c-ce03531dfae3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Circle.cpp">
@@ -377,6 +380,18 @@
     </ClCompile>
     <ClCompile Include="classtem.cpp">
       <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="errortem.cpp">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\HW_bigger.cpp">
+      <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="vector1.cpp">
+      <Filter>소스 파일\day12</Filter>
+    </ClCompile>
+    <ClCompile Include="vector2.cpp">
+      <Filter>소스 파일\day12</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
