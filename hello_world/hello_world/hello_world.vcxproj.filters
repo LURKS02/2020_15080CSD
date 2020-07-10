@@ -399,5 +399,8 @@
     <ClCompile Include="map1.cpp">
       <Filter>소스 파일\day12</Filter>
     </ClCompile>
+    <ClCompile Include="sort.cpp">
+      <Filter>소스 파일\day12</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
